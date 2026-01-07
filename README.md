@@ -1,29 +1,24 @@
 
-<div style="width: 100%; height: 300px; overflow: hidden; ">
-  <img src="assets/cat-gif.gif" style="width: 100%; height: 100%; object-fit: cover; object-position: 0% 35%;" alt="Cat Banner">
-</div>
+
+<img src="assets/cat-gif.gif" alt="Gato programando" width="100%">
 <hr>
-<br>
-<div style="display: flex; justify-content: start;">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Co&size=24&pause=1000&color=1E90FF&vCenter=true&width=800&lines=Hi!+My+name+is+Erick;I'm+a+Web+developer+and+Python+programmer;Cats+are+important%2C+so+respect+them+%3A);I+love+clean+code%2C+minimal+design+and+learning+new+things" alt="Typing SVG" /></a>
-</div>
+<center>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Co&size=22&pause=1000&color=1E90FF&center=true&vCenter=true&width=700&lines=Hi!+my+name+is+Erick;I'm+a+Web+developer+and+Python+programmer;Cats+are+important%2C+so+respect+them+%3A);I+love+clean+code%2C+minimal+design+and+learning+new+things" alt="Typing SVG" /></a>
+</center>
+
 <br>
 
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 30px; height: auto; box-sizing: border-box;">
-    <div style="display: flex; flex-direction: column; justify-content: start; align-items: start; width: 100%; height: auto; padding: 10px; gap: 10px; box-sizing: border-box;">
+<div align="center">
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td width="50%" align="left" valign="top">
         <h2>🐈‍⬛ <b>Erick Silva</b></h2>
         <p>Web developer focused on clean code, performance, and practical tools. Interested in Python, logical challenges, and exploring new technologies. I appreciate minimalist design and elegant solutions, and I am always learning and refining my approach. Outside of development, I enjoy quietly observing the world and have a quiet admiration for cats.</p>
-        <ul style="list-style: none; padding: 0; margin: 0;">
-            <li>🌟 Web Developer & Python enthusiast</li>
-            <li>🚀 Always exploring new technologies and building useful tools</li>
-            <li>🎯 2026 Goals: Create clean, minimal apps, improve coding skills, and explore AI models</li>
-            <li>🧩 Enjoy solving logic challenges and improving problem-solving skills</li>
-            <li>🐾 Fun fact: I quietly admire cats (sometimes even coding with them in mind)</li>
-            <li>✉️ How to reach me: erickaciolisilva@gmail.com</li>
-            <li>🎨 Passionate about clean design, minimal interfaces, and “blue sunset” aesthetics</li>
-        </ul>
-    </div>
-    <div>
-        <img src="assets/giphy.gif" alt="Erick Silva" style="width: 100%; height: auto; border-radius: 8px;">
-    </div>
-</div>
+        <h1>www</h1>
+      </td>
+      <td width="50%" align="center">
+        <img src="assets/giphy.gif" alt="Gato programando" width="100%" />
+      </td>
+    </tr>
+  </table>
+</di
