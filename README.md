@@ -1,6 +1,6 @@
 
 <!-- Hero image aways the cat!!! -->
-<img src="assets/cat-gif.gif" alt="Gato programando" style="width: 100%; height : 320px">
+<img src="assets/cat-gif.gif" alt="Gato programando" width="100%" style="height : 320px">
 <hr>
 <br>
 <!-- Animated text, why? because i wanted xd -->
@@ -11,7 +11,7 @@
 ## 🐈‍⬛ Erick Silva
 
 <img src="assets/giphy.gif" alt="Gato programando" width="300"  align="right">
-
+<br>
 Web developer focused on clean code, performance, and practical tools. Interested in Python, logical challenges, and exploring new technologies. I appreciate minimalist design and elegant solutions, and I am always learning and refining my approach. Outside of development, I enjoy quietly observing the world and have a special fondness for cats.
 
 - 🌟 Web Developer & Python enthusiast
