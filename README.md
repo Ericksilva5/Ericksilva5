@@ -9,7 +9,7 @@
 <br>
 
 <div align="center">
-  <table>
+  <table  cellpadding="0" cellspacing="0">
     <tr>
       <td width="50%" align="left" valign="top">
         <h2>🐈‍⬛ <b>Erick Silva</b></h2>
