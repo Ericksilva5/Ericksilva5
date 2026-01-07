@@ -5,7 +5,7 @@
 
 <!-- markdownlint-disable MD033 -->
 <a href="https://app.daily.dev/warengonzaga">
-     <img src="assets/giphy.gif" alt="gato no pc" align="right" width="250px"/>
+     <img src="assets/giphy.gif" alt="gato no pc" align="right" width="300px"/>
 </a>
 <!-- markdownlint-enable MD033 -->
 
