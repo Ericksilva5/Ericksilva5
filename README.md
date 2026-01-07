@@ -10,7 +10,7 @@
 
 ## 🐈‍⬛ Erick Silva
 
-<img src="assets/giphy.gif" alt="Gato programando" width="600"  align="right">
+<img src="assets/giphy.gif" alt="Gato programando" width="300"  align="right">
 <br>
 Web developer focused on clean code, performance, and practical tools. Interested in Python, logical challenges, and exploring new technologies. I appreciate minimalist design and elegant solutions, and I am always learning and refining my approach. Outside of development, I enjoy quietly observing the world and have a special fondness for cats.
 
