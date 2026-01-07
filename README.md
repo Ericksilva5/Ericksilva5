@@ -4,7 +4,7 @@
 <hr>
 <br>
 
-<p><img src="assets/giphy.gif" alt="Gato programando" style="min-width: 200px; max-width: 280px; width: 100%;"  align="right"></p>
+<p><img src="assets/giphy.gif" alt="Gato programando" style="min-width: 200px; max-width: 250px; width: 100%;"  align="right"></p>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=1E90FF&width=435&lines=Hi!+My+name+is+Erick;I'm+a+Web+developer;Python+programmer;Love+clean+code;Minimal+designs;Cats+are+important+%3A%29;Always+learning+something)
 
