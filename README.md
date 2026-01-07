@@ -5,10 +5,10 @@
 <br>
 
 <!-- markdownlint-enable MD033 -->
-<p><img src="assets/giphy.gif" alt="Gato programando" style="min-width: 200px; max-width: 270; width: 100%; border-radius: 8px"  align="right"></p>
+<p><img src="assets/giphy.gif" alt="Gato programando" style="min-width: 200px; max-width: 250px; width: 30%; border-radius: 8px"  align="right"></p>
 <!-- markdownlint-enable MD033 -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=1E90FF&vCenter=true&width=440&lines=Hi!+My+name+is+Erick;I'm+a+Web+developer;Python+programmer;Love+clean+code;Minimal+designs;Cats+are+important+%3A%29;Always+learning+something)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+My+name+is+Erick;I'm+a+Web+developer;Python+programmer;Love+clean+code;Minimal+designs;Cats+are+important+%3A%29;Always+learning+something)
 
 <br>
 
