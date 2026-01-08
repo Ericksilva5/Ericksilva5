@@ -137,7 +137,6 @@ Currently, I’m deepening my knowledge of Python and focusing on backend develo
 
 ![Snake animation](https://github.com/Ericksilva5/Ericksilva5/raw/output/github-contribution-grid-snake-dark.svg)
 
-
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ericksilva5/Ericksilva5/main/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ericksilva5/Ericksilva5/main/github-contribution-grid-snake-dark.svg">
