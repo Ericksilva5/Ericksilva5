@@ -1,6 +1,8 @@
 <!-- Hero image aways the cat!!! -->
 <img src="assets/cat-gif.gif" alt="Gato molhado" width="100%" style="height : 320px">
-<hr>
+
+---
+
 <br>
 
 <!-- markdownlint-disable MD033 -->
@@ -20,3 +22,124 @@ Web developer focused on clean code, performance, and practical tools. Intereste
 - 🧩 Enjoy solving logic challenges and improving problem-solving skills
 - 🐾 Fun fact: I quietly admire cats (sometimes even coding with them in mind)
 - ✉️ How to reach me: erickaciolisilva@gmail.com
+
+---
+
+<!-- ![](https://komarev.com/ghpvc/?username=Ericksilva5&style=for-the-badge) -->
+
+## About Me
+
+I’m a programming student with an early start in development, beginning at age 11 with Python, where I built small scripts and terminal-based games. Over time, that curiosity turned into a real commitment to software development.
+
+I’ve participated in multiple projects, including AIENTRA4YOUTH, developed at the Customs Office of Porto, Portugal.
+
+Currently, I’m deepening my knowledge of Python and focusing on backend development, aiming to build solid and scalable full-stack projects.
+
+<br>
+
+## ⚙️ Technologies & Tools
+
+<img
+     align="left"
+     alt="HTML"
+     title="HTML"
+     width="40px"
+     style="padding-right: 10px;"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+/>
+<img
+     align="left"
+     alt="CSS"
+     title="CSS"
+     width="40px"
+     style="padding-right: 10px;"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+/>
+<img
+     align="left"
+     alt="JS"
+     title="JS"
+     width="40px"
+     style="padding-right: 10px;"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+/>
+<img
+     align="left"
+     alt="TS"
+     title="TS"
+     width="40px"
+     style="padding-right: 10px;"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
+/>
+<img
+     align="left"
+     alt="React"
+     title="React"
+     width="40px"
+     style="padding-right: 10px;"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
+/>
+<img
+     align="left"
+     alt="Next.js"
+     title="Next.js"
+     width="40px"
+     style="padding-right: 10px;"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg"
+/>
+<img
+     align="left"
+     alt="Tailwind Css"
+     title="Tailwind Css"
+     width="40px"
+     style="padding-right: 10px;"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
+/>
+<img
+     align="left"
+     alt="Bootstrap"
+     title="Bootstrap"
+     width="40px"
+     style="padding-right: 10px;"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"
+/>
+<img
+     align="left"
+     alt="Python"
+     title="Python"
+     width="40px"
+     style="padding-right: 10px;"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+/>
+<img
+     align="left"
+     alt="Git"
+     title="Git"
+     width="40px"
+     style="padding-right: 10px;"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+/>
+<img
+     align="left"
+     alt="Github"
+     title="Github"
+     width="40px"
+     style="padding-right: 10px;"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
+/>
+
+
+<br>
+<br>
+<br>
+
+## 📊 GitHub Activity
+
+![Snake animation](https://github.com/Ericksilva5/Ericksilva5/raw/output/github-contribution-grid-snake-dark.svg)
+
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ericksilva5/Ericksilva5/main/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ericksilva5/Ericksilva5/main/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ericksilva5/Ericksilva5/main/github-contribution-grid-snake.svg">
+</picture>
